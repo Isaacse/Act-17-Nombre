@@ -15,7 +15,7 @@
       echo '<body>';
       echo '<p>';
 
-      echo "¡Hola $nombre! 😎<br/>";
+      echo "<center>¡Hola $nombre! 😎<br/>";
        echo 'Calle:Jesus Solorzano 🏡<p>';
       echo 'Num de Casa:126# 🏡<p>';
       echo 'La fecha es 29 de Marzo del 2023.<p>'; //comentario
