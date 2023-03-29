@@ -18,7 +18,7 @@
       echo "¡Hola $nombre! 😎<br/>";
        echo 'Calle:Jesus Solorzano 🏡<p>';
       echo 'Num de Casa:126# 🏡<p>';
-      echo 'La fecha es 29 de Marzo del 2023.'; //comentario
+      echo 'La fecha es 29 de Marzo del 2023.<p>'; //comentario
       echo 'Colonia:El Torreo<p>';
       echo 'MunicipioSaltillo</p>';
       echo '</body>';
